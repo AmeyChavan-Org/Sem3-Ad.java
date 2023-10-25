@@ -1,0 +1,105 @@
+Amey Chavan.txt
+
+need to do
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Ass 1:- 
+
+All working good -> compile like normal java program ![just before than start the DB]
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Ass- 2 :- 
+Q1 -> DONE
+Q2 -> Working with connected to sharwani database
+Q3-> need to create product SQL table. [DONE]
+
+Ass - 3 :- working already
+
+Ass- 4  :- checked
+
+
+Ass- 5 :- done
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+###Start tomcat and mysql before executing###
+
+Ass - 6 :-
+Q1. WORKING :- (servlet program) Run tomcat -> browser -> http://localhost:8080/greet.html 
+Q2. WORKING :- (servlet program using cookie) -> browser -> http://localhost:8080/cookie
+
+
+Q3. WORKING :- http://localhost:8080/login.html [ DB IS user1 -> "amey" pass -> 123] 
+
+Need to create a database (WORKING) [DONE]
+
+System :-	1. database(for login,user name and password)
+		2. login html page
+			{
+				if(correct)
+				{
+					welcome.html / servlet
+				}
+				else
+				{
+					displayError.html	
+				}
+			}
+		3. it also has login.jsp file to check the password and user name.		
+		
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Ass-7 :-
+
+Q1. WORKING
+System :-	1. Calculate.html-> Taking input
+	      2. Calculate.jsp -> backend calculation
+
+Q2. WORKING
+System :- 1. wishuser.html-> acceptance of user name
+	  2. wishuser.jsp -> greeting the user according to time 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+###Start tomcat and mysql before executing###
+
+Ass - 8 :-
+Q1. WORKING :- (jsp program)-> browser-> http://localhost:8080/DBMetaData.jsp 
+	note:- program is running but need to fetch only database of user , but it is fetching data of entire SQL of class!.
+
+Q2. [DONE]:-WORKING(NOT) :-  (jsp program) -> browser -> http://localhost:8080/Product.jsp
+	 	need a product table to be create (Ass_2_2 product table should exsist to run this Question)
+
+Q3. Working(NOT) :- (jsp program)-> browser-> 
+		http://localhost:8080/entity.html
+		
+		need to Create database in 3NF.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Ass - 9 :- EMAIL ASSIGNMENT
+
+"We have to do only one question - order by jeevan sir"
+
+Working:-
+Step. 1 :- javac MyMail.java -> java MyMail -> Message Successfully!
+Step. 2 :- cntrl + alt+ f3 -> [mca login: ] -> type :- "email226338" -> it will display last login details
+setp. 3 :- type:- mail -> "it will display all the mails with there Sr.no " -> "check sr.no with your login name and latest timestamp" -> type that sr.no ->
+		example -> 22 or 44 
+		Message 22:-
+			"here message and details of message will appear" 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+###Start tomcat and mysql before executing###
+Ass - 10 :-
+	
+Q1. Working:- http://localhost:8080/A10.html
+	not working :- Admin.jsp 
+
+Q2. Working :- http://localhost:8080/mall1.html
+		System flow:- page 1 :- http://localhost:8080/mall1.html
+			 page 2 :- http://localhost:8080/mall2.html
+			 final bill :- http://localhost:8080/mall.html
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
